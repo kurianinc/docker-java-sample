@@ -5,6 +5,6 @@ package org.examples.java;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Nice Class!");
+        System.out.println("We are now in Jenkins part of Class!");
     }
 }
