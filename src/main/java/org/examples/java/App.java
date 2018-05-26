@@ -8,6 +8,6 @@ public class App {
         System.out.println("Hello World!");
 	System.out.println("Adding new message.");
 	// Adding Syntax error
-	System.out.println("Missing quote);
+	System.out.println("Missing quote - Fixed syntax error");
     }
 }
