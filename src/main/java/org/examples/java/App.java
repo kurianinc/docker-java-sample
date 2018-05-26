@@ -5,6 +5,6 @@ package org.examples.java;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello SunilG!");
+        System.out.println("Hello SunilGanu!");
     }
 }
